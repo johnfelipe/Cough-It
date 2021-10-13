@@ -1,9 +1,9 @@
-# **Cough It**
-#### COVID-19 Diagnosis at Ease
+<h1 align="center">Cough It</h1>
 
 <p align="center">
   <img src="./assets/thumbnail.png" />
 </p>
+<h3 align="center">COVID-19 Diagnosis at Ease</h3>
 
 ## Inspiration
 As the pandemic has nearly crippled all the nations and still in many countries, people are in lockdown, there are many innovations in these two years that came up in order to find an effective way of tackling the issues of COVID-19. Out of all the problems, detecting the COVID-19 strain has been the hardest so far as it is always mutating due to rapid infections. 
